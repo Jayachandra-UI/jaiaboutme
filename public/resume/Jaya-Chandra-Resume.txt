@@ -1,0 +1,98 @@
+JAYA CHANDRA
+SOFTWARE ENGINEER
+Phone: +91 8886916516
+Email: jaichandraios@gmail.com
+Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+Over 5.5 years of UI Development experience with extensive expertise in Next.js, React.js, React Native, Express.js, and Node.js. Proven track record of developing highly interactive web-based applications with a focus on responsive design and pixel-perfect implementation. Strong proficiency in modern frontend technologies and RESTful API integration.
+
+TECHNICAL SKILLS
+Frontend: HTML5, CSS3, SCSS, Tailwind CSS, Material UI, ANT Design, Fluent UI, Native Base
+Languages: JavaScript, TypeScript
+Frameworks: Next.js, React.js, React Native, Express.js, Redux
+Tools & Platforms: Git, GitHub, GitLab, JIRA, Redmine, AWS, S3
+Other: RESTful APIs, Responsive Design, Firebase Push Notifications
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer
+V-Empower Inc | April 2024 – Present
+
+Meet Hour Web Application
+- Developed Features: Breakout rooms and Live Captions (Transcriptions) with Google Text-to-Speech
+- Collaborated with backend developers for REST API integration
+- Created and modified React components with focus on reusability
+- Managed build and deployment issues
+- Technologies: HTML, Tailwind CSS, TypeScript, Next.js, Redux
+
+Senior Software Engineer (Team Lead)
+V-Empower Inc | April 2023 – March 2024
+
+eVisitNB Web Application
+- Developed UI screens as per Adobe XD designs for web, tablet, and mobile resolutions
+- Collaborated with backend developers for REST API integration
+- Created reusable React components and managed component architecture
+- Handled build and deployment issues
+- Technologies: HTML, Tailwind CSS, TypeScript, Next.js, Redux, Firebase Push Notifications
+
+eVisitNB Mobile Application
+- Developed responsive UI screens compatible across all device resolutions
+- Collaborated with backend team for API integration
+- Created and modified reusable React Native components
+- Technologies: Native Base, Tailwind CSS, TypeScript, React Native, Redux
+
+Software Engineer
+Innominds | January 2022 – February 2023
+
+SigmaPlot NG
+- Fixed UI bugs reported by testing team
+- Collaborated with backend developers for REST API integration
+- Created and modified React components
+- Technologies: HTML, CSS, TypeScript, React.js, Redux, Fluent UI
+
+Microsoft Edge Browser - PDF Team
+- Developed PDF toolbar components including Zoom and Pageview flyout using Fluent UI
+- Fixed bugs in existing UI components
+- Resolved PR comments following Microsoft standards
+- Technologies: HTML, CSS, TypeScript, Fluent UI
+
+Software Engineer
+MIHY Innovations | November 2020 – January 2022
+
+BULLFORCE - Trading Application
+- Developed React UI screens with responsive design across web, tablet, and mobile
+- Fixed UI bugs and collaborated with backend developers
+- Created and modified Material UI components
+- Managed build and deployment processes
+- Technologies: HTML, CSS, JavaScript, React, Redux, Material UI
+
+FXEQUITY - Trading Platform
+- Developed responsive UI screens for trading platform
+- Fixed UI bugs and integrated REST APIs
+- Created and modified Material UI components
+- Technologies: HTML, CSS, JavaScript, React, Redux, Material UI
+
+Associate Software Engineer
+WalkingTree Technologies Pvt. Ltd | June 2019 – October 2020
+
+eGovernments Application
+- Developed and maintained responsive UI screens
+- Fixed UI bugs and modified React components
+- Collaborated with backend developers for API integration
+- Technologies: HTML, CSS, JavaScript, React.js, Redux, Material UI
+
+EDUCATION
+B.Tech in Computer Science
+Hasvita Institute of Engineering and Technology, Hyderabad, India | May 2016
+
+CORE COMPETENCIES
+- Full-Stack Web Development (MERN Stack)
+- Responsive & Interactive Web Design
+- Component-Based Architecture
+- REST API Integration
+- State Management (Redux)
+- Mobile App Development (React Native)
+- UI/UX Implementation
+- Version Control & Collaboration
+- Agile Development Methodology
