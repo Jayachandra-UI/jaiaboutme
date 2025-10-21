@@ -2,7 +2,7 @@ export default function About() {
   const cards = [
     {
       title: "Experience",
-      description: "5+ years of professional development experience",
+      description: "6+ years of professional development experience",
     },
     {
       title: "Focus Areas",
