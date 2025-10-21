@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Jaya Chandra MERN Stack Developer",
   description: "Full-stack developer specializing in MongoDB, Express, React, and Node.js",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
